@@ -21,3 +21,7 @@ To overcome these challenges, we propose a novel coarse-to-fine Gaussian SLAM fr
 
 ## Install
 The complete code is coming soon!
+
+## Foundation Framework
+
+Our work is built upon the open-source [SplaTAM]([https://github.com/yourusername/splatam](https://github.com/spla-tam/SplaTAM)) framework, which provides an efficient implementation of Gaussian-based SLAM. We have extended and improved SplaTAM, particularly in terms of optimization and large-scale mapping. You can access the [SplaTAM repository]([https://github.com/yourusername/splatam](https://github.com/spla-tam/SplaTAM)) for more details and to learn how to use the original framework.
