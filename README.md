@@ -15,4 +15,5 @@ To overcome these challenges, we propose a novel coarse-to-fine Gaussian SLAM fr
 
 Extensive experiments across several benchmark datasets show that our method delivers state-of-the-art photometric quality and competitive geometric accuracy, even performing well on untrained viewpoints. The proposed framework sets a new standard in photorealistic SLAM mapping.
 
-
+## Install
+The complete code is coming soon!
