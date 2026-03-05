@@ -3,6 +3,11 @@
 </p>
 
 ## Overview
+<p align="center">
+  <a href="">
+    <img src="./img/overview.png" width="100%">
+  </a>
+</p>
 
 The application of Gaussian splatting in SLAM systems has led to significant advancements in photorealistic mapping, benefiting both academic research and industrial applications. However, existing Gaussian-based SLAM frameworks often face the issue of overfitting to training trajectories, which results in reduced mapping quality when viewed from unseen viewpoints. Additionally, the direct use of anisotropic primitives at the outset often leads to unstable optimization and high computational costs, limiting scalability for large-scale mapping tasks.
 
@@ -10,8 +15,4 @@ To overcome these challenges, we propose a novel coarse-to-fine Gaussian SLAM fr
 
 Extensive experiments across several benchmark datasets show that our method delivers state-of-the-art photometric quality and competitive geometric accuracy, even performing well on untrained viewpoints. The proposed framework sets a new standard in photorealistic SLAM mapping.
 
-<p align="center">
-  <a href="">
-    <img src="./img/overview.png" width="100%">
-  </a>
-</p>
+
