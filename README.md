@@ -17,7 +17,7 @@ Extensive experiments across several benchmark datasets show that our method del
 
 <p align="center">
   <a href="">
-    <img src="./img/exp.png" width="100%">
+    <img src="./img/intro.png" width="100%">
   </a>
 </p>
 
